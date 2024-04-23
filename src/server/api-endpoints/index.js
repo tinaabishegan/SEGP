@@ -1,0 +1,9 @@
+exports.login = require('./login');
+exports.logout = require('./logout');
+exports.authenticate = require('./authenticate');
+exports.register = require('./register');
+exports.profile = require('./profile');
+exports.edit_profile = require('./edit_profile');
+exports.run_model = require('./run_model');
+exports.upload_file = require('./upload_file');
+exports.upload_stress = require('./upload_stress');
